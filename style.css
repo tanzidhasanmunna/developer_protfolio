@@ -1,0 +1,23 @@
+body{
+    font-family: "Tinos", serif;
+
+}
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    font-size: large;
+    margin-right: 5%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 60%;
+    float: right;
+    
+}
